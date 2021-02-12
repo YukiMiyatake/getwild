@@ -1,0 +1,2 @@
+# getwild
+test Riot API
